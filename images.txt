@@ -3,3 +3,4 @@ minio/minio
 redis
 mysql
 rabbitmq
+halohub/halo:2.18
