@@ -4,3 +4,4 @@ redis
 mysql
 rabbitmq
 halohub/halo:2.18
+zenika/alpine-chrome
