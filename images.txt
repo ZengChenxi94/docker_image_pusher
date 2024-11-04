@@ -6,3 +6,4 @@ rabbitmq
 halohub/halo:2.18
 zenika/alpine-chrome
 browserless/chrome
+apachepulsar/pulsar:latest
