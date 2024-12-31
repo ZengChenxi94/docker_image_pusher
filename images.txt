@@ -6,3 +6,4 @@ rabbitmq
 halohub/halo:2.18
 zenika/alpine-chrome
 apachepulsar/pulsar:latest
+eipwork/kuboard-spray:latest-amd64
